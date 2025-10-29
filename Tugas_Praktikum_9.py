@@ -30,4 +30,12 @@ print(buah)
 # e. Tampilkan 3 buah pertama
 print(buah[:3]) # ['apel', 'jeruk', 'durian']
 
-# 2
+# 2. Mengurutkan angka
+angka = [45, 12, 78, 23, 56, 89, 34]
+
+# a. Urutkan secara ascending
+angka.sort() 
+print(angka) # [12, 23, 34, 45, 56, 78, 89]
+
+# b. Urutkan secara descending
+angka.reverse()
