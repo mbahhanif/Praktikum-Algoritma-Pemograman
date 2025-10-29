@@ -39,3 +39,4 @@ print(angka) # [12, 23, 34, 45, 56, 78, 89]
 
 # b. Urutkan secara descending
 angka.reverse()
+print(angka) # [89, 78, 56, 45, 34, 23, 12]
