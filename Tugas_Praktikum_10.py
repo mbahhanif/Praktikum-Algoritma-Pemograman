@@ -5,3 +5,5 @@
 
 # Latihan
 
+1. Tuples
+#a.
