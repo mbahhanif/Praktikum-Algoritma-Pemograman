@@ -21,5 +21,8 @@ keranjang = {
 perulangan = 0
 total = 0
 for buah, harga in keranjang.items():
-  print(f" Harga {buah} : Rp {harga}") 
+  print(f"Harga {buah} : Rp {harga}") 
   perulangan += 1
+  print(f"perulangan ke {perulangan}") 
+  total += harga
+print(f"Harga {buah} : Rp {total}\n") 
