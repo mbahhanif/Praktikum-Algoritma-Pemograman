@@ -5,5 +5,6 @@
 
 # Latihan
 
-1. Tuples
-#a.
+# 1. Tuples
+# a. buat tuple mahasiswa berisi data -> Nama, NIM, Prodi
+da
