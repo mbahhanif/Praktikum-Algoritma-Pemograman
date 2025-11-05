@@ -7,4 +7,5 @@
 
 # 1. Tuples
 # a. buat tuple mahasiswa berisi data -> Nama, NIM, Prodi
-da
+data_tuple = ("Muhammad Hanif Raharjo", 2505060074, "Teknologi Informasi") 
+
