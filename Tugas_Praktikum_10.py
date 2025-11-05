@@ -8,4 +8,4 @@
 # 1. Tuples
 # a. buat tuple mahasiswa berisi data -> Nama, NIM, Prodi
 data_tuple = ("Muhammad Hanif Raharjo", 2505060074, "Teknologi Informasi") 
-
+print(f"NIM : {data_tuple[1]}, Prodi : {data_tuple[2]}") 
