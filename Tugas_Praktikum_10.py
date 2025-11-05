@@ -26,3 +26,12 @@ for buah, harga in keranjang.items():
   print(f"perulangan ke {perulangan}") 
   total += harga
 print(f"Harga {buah} : Rp {total}\n") 
+# Harga apel : Rp 5000
+  perulangan ke 1
+# Harga pisang : Rp 3000
+  perulangan ke 2
+# Harga jeruk : Rp 7000
+  perulangan ke 3
+# Harga anggur : Rp 15000
+  perulangan ke 4
+# total harga buah : Rp 30000
