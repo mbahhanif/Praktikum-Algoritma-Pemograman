@@ -1,7 +1,7 @@
 # Nama : Muhammad Hanif Raharjo
 # NPM : 2505060074
 # Rombel : 4
-# Link Tugas :
+# Link Tugas : https://colab.research.google.com/drive/1H6EihOGe2vhMbhF5nhwhu1adjf56jupG 
 
 # Latihan
 
